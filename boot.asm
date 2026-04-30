@@ -13,4 +13,4 @@ _start:
 .hang:
     hlt
     jmp .hang
-__asm__ volatile ("sti");
+
